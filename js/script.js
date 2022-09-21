@@ -30,3 +30,4 @@ alert(power);
 let reminder = b % a;
 alert(reminder);
 
+console.log(`New feature`)
